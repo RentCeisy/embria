@@ -1,6 +1,6 @@
 <h1 align="center">Embria</h1>
 
-[Screenshot](https://github.com/RentCeisy/embria/raw/master/screenshot.png)
+![Screenshot](https://github.com/RentCeisy/embria/raw/master/screenshot.png)
 
 ## About Task
 
