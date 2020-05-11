@@ -27,6 +27,7 @@ Password: <strong>qwertyui</strong>
     - npm install
     - npm run dev
 ```
+Создать .env файл в соответствии со своими настройками.
 
 Migration database:
 
@@ -39,4 +40,6 @@ DB seeds:
 ```bash
     - php artisan db:seed
 ```
+
+
 
